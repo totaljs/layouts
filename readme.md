@@ -1,8 +1,12 @@
 # Layous
 
-[![Support](https://www.totaljs.com/img/button-support.png)](https://www.totaljs.com/support/) [![Donate](https://www.totaljs.com/img/button-donate.png)](https://www.totaljs.com/#make-a-donation)
+- [Website](https://componentator.com)
+- [__Documentation__](https://docs.totaljs.com/components/)
+- [Chat support](https://platform.totaljs.com/?open=messenger)
+- [Join __Total.js Telegram__](https://t.me/totalplatform)
+- [Support](https://www.totaljs.com/support/)
 
-Total.js Platform preddefined layout templates. Enjoy it and use it for a good thing!
+Preddefined layout templates. Enjoy it and use it for a good thing!
 
 ## Contributors
 
@@ -13,6 +17,3 @@ Total.js Platform preddefined layout templates. Enjoy it and use it for a good t
 ## Contact
 
 Do you have any questions? Contact us <https://www.totaljs.com/contact/>
-
-[license-image]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat
-[license-url]: license.txt
